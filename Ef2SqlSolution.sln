@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ef2SqlConsole", "Ef2SqlConsole\Ef2SqlConsole.csproj", "{EB5623B5-B8DB-4972-85DA-CC055348D625}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ef2SqlLib", "Ef2SqlLib\Ef2SqlLib.csproj", "{56126356-DE00-43FD-BD0C-726A482D8943}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB5623B5-B8DB-4972-85DA-CC055348D625}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB5623B5-B8DB-4972-85DA-CC055348D625}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB5623B5-B8DB-4972-85DA-CC055348D625}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB5623B5-B8DB-4972-85DA-CC055348D625}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56126356-DE00-43FD-BD0C-726A482D8943}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56126356-DE00-43FD-BD0C-726A482D8943}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56126356-DE00-43FD-BD0C-726A482D8943}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56126356-DE00-43FD-BD0C-726A482D8943}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BDD4B467-16A9-48CE-95A4-8F8D1E38EC04}
+	EndGlobalSection
+EndGlobal
